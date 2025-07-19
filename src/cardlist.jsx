@@ -1,7 +1,6 @@
 import React from "react";
 
 import Card from "./card";
-import { robots } from "./robots";
 
 
 function Cardlist({robots}) {
